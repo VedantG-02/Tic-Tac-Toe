@@ -10,5 +10,5 @@ Python files:
 5. scores.py -> printing scores on the screen
 
 # Install Python
-Install Python 3.x from: Python.org
+Install Python 3.x from: [Python.org](https://www.python.org/)
 
