@@ -1,6 +1,5 @@
 from game_extras import banner
 
-# banner = banner()
 
 def scores(name, player_score, computer_score, tie_score):
 	banner.banner_end()
