@@ -4,8 +4,6 @@ from game_extras import board
 from rules_to_win import rules_to_win
 from game_extras import banner
 
-# banner = banner()
-# board = board()
 
 def game(player_choice, comp_choice, player_score, computer_score, tie_score):
     spaces = {1: " ", 2: " ", 3: " ", 4: " ", 5: " ", 6: " ", 7: " ", 8: " ", 9: " "}
