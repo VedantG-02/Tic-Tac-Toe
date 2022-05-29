@@ -1,6 +1,5 @@
 from game_extras import banner
 
-# banner = banner()
 
 def rules_to_win(dic, player_choice, comp_choice, player_score, computer_score):
     # Conditions are as follows
